@@ -23,3 +23,4 @@ if __name__ == "__main__":
     result = count_operators(expression)
     print(f"Operator counts: {result}")
 
+git status
